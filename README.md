@@ -1,4 +1,4 @@
-# 01-HTML-CSS-Code-Refactor-for-Accessibility
+# Code-Refactor-for-Accessibility
 
 ## Code Refactor for Accessibility
 
