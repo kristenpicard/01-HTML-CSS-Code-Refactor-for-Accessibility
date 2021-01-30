@@ -6,7 +6,6 @@
 
 :root {
     --light-color: #d9dcd6;
-
 }
 
 body {
@@ -55,6 +54,7 @@ a {
 p {
     font-size: 16px;
 }
+
 
 .hero {
     height: 800px;
