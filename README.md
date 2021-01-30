@@ -1,5 +1,7 @@
 # Code-Refactor-for-Accessibility
 
+https://kristenpicard.github.io/Code-Refactor-for-Accessibility/
+
 In this exercise I wanted to make this site example more accesible.  
 
 My goal was for anyone who accesses the site using assistive technology like screen readers to be able to successfully navigate the site.
