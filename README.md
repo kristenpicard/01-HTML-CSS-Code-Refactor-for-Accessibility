@@ -14,4 +14,7 @@ I added a description in the title element.
 
 I also worked to ensure the CSS sheet was more concise.
 
+Here are some screenshots of the site to show that the viewing experience did not change while adding the elements to make it more accessible:
+
 ![Screenshot](assets/images/Screenshot.png)
+![Screenshot](assets/images/Screenshot2.png)
