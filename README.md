@@ -14,4 +14,4 @@ I added a description in the title element.
 
 I also worked to ensure the CSS sheet was more concise.
 
-![alt text](assets/images/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
