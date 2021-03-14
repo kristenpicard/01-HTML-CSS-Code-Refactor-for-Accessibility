@@ -20,3 +20,15 @@ Here are some screenshots of the site to show that the viewing experience did no
 
 ![Screenshot](assets/images/Screenshot.png)
 ![Screenshot](assets/images/Screenshot2.png)
+
+## Installation
+Clone the repository at https://github.com/kristenpicard/Code-Refactor-for-Accessibility and load it on
+code editor of your choice. Vscode is the prefered editor.
+
+## Credits
+Kristen Picard https://github.com/kristenpicard
+
+
+## License
+MIT License
+![test](https://img.shields.io/apm/l/test)
